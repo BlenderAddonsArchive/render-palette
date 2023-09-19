@@ -1,6 +1,6 @@
 <h1 align="center">Render Palette - Revolutionize Your Blender Rendering Workflow!</h1>
 
-***Introducing Render Palette – your gateway to a whole new level of Blender rendering. Crafted with precision and packed with features, this add-on reshapes the way you approach rendering. Whether you're a seasoned artist or just starting out, Render Palette brings you an intuitive rendering panel that takes the hassle out of the process.***
+Introducing Render Palette – *your gateway to a whole new level of Blender rendering. Crafted with precision and packed with features, this add-on reshapes the way you approach rendering. Whether you're a seasoned artist or just starting out, Render Palette brings you an intuitive rendering panel that takes the hassle out of the process.*
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=download&id=1lHDzi9vYD_qaYO18ob-8M-dX2l3y-oPc">
@@ -36,6 +36,16 @@
 - Enable or disable custom panels for lens properties and tracking settings.
 - Add labels to buttons to make the interface more intuitive.
 
+#### Screenshots-
+
+| <img src="./screenshots/windows/HomeDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/windows/SavedDark.png" width="220"/> |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
+
+---  
+
+![Screenshot (26)](https://github.com/Jishnu-jithu/render-palette/assets/145359279/fd4c5a5c-5749-4360-9b6f-583089030a1e)
+![Screenshot (27)](https://github.com/Jishnu-jithu/render-palette/assets/145359279/a76099d1-a261-4086-bcc1-4439465a70e5)
+
 Don't miss out on this game-changer. Get Render Palette now and unlock a new era of rendering possibilities in Blender.
 
 ## Installation
@@ -48,5 +58,5 @@ For detailed usage instructions and documentation, please refer to the [Render P
 
 ## Support
 
-For support or inquiries, please contact us at [support@example.com](mailto:support@example.com).
+For support or inquiries, please contact us at [Telegram channel](https://t.me/Blendyhub).
 
