@@ -38,9 +38,9 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 
 ##
         
-<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/7289de33-63e8-4753-8078-bc09ca73a530" alt="Main Panel" width="334">
-<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/02f78f0a-957b-4c4f-94ea-b517aa9711fd" alt="Other Panels" width="334">
-<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/c01e98ac-b948-4bc1-8693-edeb2027fb08" alt="Addon preference" width="335">
+<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/7289de33-63e8-4753-8078-bc09ca73a530" alt="Main Panel" width="500">
+<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/02f78f0a-957b-4c4f-94ea-b517aa9711fd" alt="Other Panels" width="500">
+<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/c01e98ac-b948-4bc1-8693-edeb2027fb08" alt="Addon preference" width="500">
 
 Don't miss out on this game-changer. Get Render Palette now and unlock a new era of rendering possibilities in Blender.
 
