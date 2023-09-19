@@ -36,15 +36,11 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 - Enable or disable custom panels for lens properties and tracking settings.
 - Add labels to buttons to make the interface more intuitive.
 
-#### Screenshots-
-
-| <img src="./screenshots/windows/HomeDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDark.png" width="220"/> | <img src="./screenshots/windows/ForecastDetailsDark.png" width="220"/> | <img src="./screenshots/windows/SavedDark.png" width="220"/> |
-| ----------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
-
----  
-
-![Screenshot (26)](https://github.com/Jishnu-jithu/render-palette/assets/145359279/fd4c5a5c-5749-4360-9b6f-583089030a1e)
-![Screenshot (27)](https://github.com/Jishnu-jithu/render-palette/assets/145359279/a76099d1-a261-4086-bcc1-4439465a70e5)
+##
+        
+<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/7289de33-63e8-4753-8078-bc09ca73a530" alt="Main Panel" width="334">
+<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/02f78f0a-957b-4c4f-94ea-b517aa9711fd" alt="Other Panels" width="334">
+<img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/c01e98ac-b948-4bc1-8693-edeb2027fb08" alt="Addon preference" width="335">
 
 Don't miss out on this game-changer. Get Render Palette now and unlock a new era of rendering possibilities in Blender.
 
