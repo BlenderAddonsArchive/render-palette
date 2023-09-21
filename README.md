@@ -46,11 +46,11 @@ Don't miss out on this game-changer. Get Render Palette now and unlock a new era
 
 ## Installation
 
-Instructions for installing the Render Palette add-on can be found in the [Installation Guide](https://www.blendermarket.com/products/render-palette/docs).
+Instructions for installing the Render Palette add-on can be found in the [Installation Guide](https://github.com/Jishnu-jithu/render-palette/wiki/Add%E2%80%90on-Installation).
 
 ## Documentation
 
-For detailed usage instructions and documentation, please refer to the [Render Palette Wiki](https://github.com/Jishnu-jithu/render-palette/wiki).
+For detailed usage instructions and documentation, please refer to the [Render Palette Wiki](https://github.com/Jishnu-jithu/render-palette/wiki/Render-Palette-Documentation).
 
 ## Support
 
