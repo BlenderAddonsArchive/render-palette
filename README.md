@@ -1,4 +1,4 @@
-<h1 align="center">Render Palette - Revolutionize Your Blender Rendering Workflow!</h1>
+<h1 align="center">Render Palette - Blender Add-on!</h1>
 
 Introducing Render Palette – *your gateway to a whole new level of Blender rendering. Crafted with precision and packed with features, this add-on reshapes the way you approach rendering. Whether you're a seasoned artist or just starting out, Render Palette brings you an intuitive rendering panel that takes the hassle out of the process.*
 
