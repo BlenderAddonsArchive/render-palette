@@ -46,6 +46,36 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 
 Don't miss out on this game-changer. Get Render Palette now and unlock a new era of rendering possibilities in Blender.
 
+## Updates:
+Make sure to uninstall the current addon before installing the new one.
+
+### Version 1.3 Changelog:
+- **Expanded Resolution Presets:** Increased the variety of resolution presets for greater flexibility.
+- **Render Settings Revamp:** The render settings panel has been overhauled, offering a more streamlined and user-friendly experience.
+- **Camera Settings Panel:** Introduced a new panel dedicated to camera settings, including options to:
+  - Adjust camera orientation (square, portrait, landscape).
+  - Create a camera to view your scene.
+  - Align the selected camera to the current view.
+  - Customize various camera-related settings.
+- **Preset Management:** Added a preset option that enables you to:
+  - Create and manage presets for resolution, render engine, render device, samples, contrast, file format, and output location.
+- **Addon Preferences Update:** The addon preferences section has been updated to include:
+  - Access to updated documentation (now available on GitHub; previously located on Blender Market's documentation page).
+  - A "report bug" button for convenient user feedback submission.
+  - Additional options for fine-tuning the addon panel's user interface.
+
+### Version 1.2 Changelog:
+- **Render Device Selection for Cycles:** You now have the flexibility to choose your preferred render device when the render engine is set to Cycles.
+- **Updated Contrast Preset:** We have refined our contrast preset.
+- **Default Location for Environment Texture:** We have added an option to choose a default location for environment textures. Now, you can specify a folder, and Render Palette will automatically import all EXR files from that directory.
+- **World Strength Adjustment:** You can now change the world strength of your environment texture.
+- **Removed Default Output Location (Removed):** Please note that we have removed the default output location option due to inconsistent performance. We are actively working to improve this feature and will reintroduce it in a future update.
+
+### Version 1.1 Changelog:
+- **Improved Environment Settings:** We've enhanced the environment settings in this update.
+- **Added Texture Coordinates Option for Environment:** We've introduced texture coordinates options for environment settings, allowing you to adjust the location, rotation, and scale of textures.
+  
+
 ## Installation
 
 Instructions for installing the Render Palette add-on can be found in the [Installation Guide](https://github.com/Jishnu-jithu/render-palette/wiki/Add%E2%80%90on-Installation).
