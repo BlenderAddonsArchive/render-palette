@@ -10,11 +10,13 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 
 ### Render Settings
 
-- Choose from a range of predefined resolution presets, including standard resolutions like 720p, 1080p, 4K, and even 8K.
+- Choose from a range of predefined resolution presets, including standard resolutions like 720p, 1080p, 1440p, 4K, and even 8K.
+- Switch between different render engines (Cycles, Workbench or Eevee) and render devices (CPU or GPU) with a single click.
 - Control render samples with preset options for low, medium, and high quality or specify a custom sample count.
+- Export rendered output in various file formats, including PNG, JPEG, TIFF, OpenEXR, and video formats like MP4.
+- Specify your preferred output location for rendered files, allowing you to organize your projects efficiently.
 - Select the desired frames per second (FPS) for your animation, including common frame rates and custom values.
 - Easily toggle motion blur on and off for your render in both Cycles and Eevee rendering engines.
-- Export rendered output in various file formats, including PNG, JPEG, TIFF, OpenEXR, and video formats like MP4.
 
 ### EXR Import
 
