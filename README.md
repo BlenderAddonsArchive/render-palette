@@ -51,6 +51,11 @@ Don't miss out on this game-changer. Get Render Palette now and unlock a new era
 ## Updates:
 Make sure to uninstall the current addon before installing the new one.
 
+### Version 1.4 Changelog:
+- **More Preset Options:** You can create presets with Render Type Selection, Frame Range, Frame Rate (FPS)
+- **Batch Render:** Introducing the batch render feature, which enables you to render your scene with multiple cameras consecutively.
+- **Auto-save Rendered Images:** Added an option to automatically save rendered images upon completion.
+
 ### Version 1.3 Changelog:
 - **Expanded Resolution Presets:** Increased the variety of resolution presets for greater flexibility.
 - **Render Settings Revamp:** The render settings panel has been overhauled, offering a more streamlined and user-friendly experience.
