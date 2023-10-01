@@ -26,6 +26,7 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 
 - Easily toggle Depth of Field (DOF) on and off for the active camera.
 - Select the desired camera for rendering from a list of available cameras.
+- Easily switch the camera orientation between square and portrait modes.
 - Customize camera properties and orientation directly from the Blender interface.
 
 ### Presets
