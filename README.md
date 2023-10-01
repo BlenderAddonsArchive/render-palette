@@ -55,7 +55,8 @@ Make sure to uninstall the current addon before installing the new one.
 ### Version 1.4 Changelog:
 - **More Preset Options:** You can create presets with Render Type Selection, Frame Range, Frame Rate (FPS)
 - **Batch Render:** Introducing the batch render feature, which enables you to render your scene with multiple cameras consecutively.
-- **Auto-save Rendered Images:** Added an option to automatically save rendered images upon completion.
+- **Auto-save Rendered Images:** Added an option to automatically save rendered images upon completion.  
+- **Bug Fix:** Resolved a bug that was occasionally causing camera orientation settings not to function as expected. This fix ensures consistent and accurate camera orientation for your projects.
 
 ### Version 1.3 Changelog:
 - **Expanded Resolution Presets:** Increased the variety of resolution presets for greater flexibility.
