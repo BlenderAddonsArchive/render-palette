@@ -3,7 +3,7 @@
 Introducing Render Palette – *your gateway to a whole new level of Blender rendering. Crafted with precision and packed with features, this add-on reshapes the way you approach rendering. Whether you're a seasoned artist or just starting out, Render Palette brings you an intuitive rendering panel that takes the hassle out of the process.*
 
 <p align="center">
-  <img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/a3771745-a340-4ed9-80ae-880400342341">
+  <img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/ebd8e565-b5ca-44dc-8cfd-2eb4478e0c2a">
 </p>
 
 ## Key Features:
