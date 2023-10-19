@@ -52,6 +52,20 @@ Don't miss out on this game-changer. Get Render Palette now and unlock a new era
 ## Updates:
 Make sure to uninstall the current addon before installing the new one.
 
+### Version 1.5 Changelog:
+
+**Added Features**:
+- **More Render Setttings Options:** Added the ability to change the View Transformm, adjust the focus object and focus distance when Depth of Field is enabled in the Render settings panel.
+- **New Camera to View Button:** The camera dropdown menu in the Render Palette will now show a "New Camera to View" option when there is no camera in the scene, making it more user-friendly.
+- **Open Preset Folder:** Added a convenient option in the preset menu to navigate to the preset folder for quick access.
+- **Remove applied EXR:** Introduced an option to remove the applied EXR file directly from the Render Palette.
+
+**Enhancements**:
+- **Sample Preset:** The sample presets have been improved. Now, by default, the Render Palette will display the current sample count instead of "Low (64)" as it previously did.
+
+**User Interface Enhancement**:
+- **Render Palette Menu:** The option to enable or disable panels has been relocated from the addon preferences to the View menu in the 3D View.
+
 ### Version 1.4 Changelog:
 - **More Preset Options:** You can create presets with Render Type Selection, Frame Range, Frame Rate (FPS)
 - **Batch Render:** Introducing the batch render feature, which enables you to render your scene with multiple cameras consecutively.
