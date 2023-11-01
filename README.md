@@ -103,6 +103,10 @@ Make sure to uninstall the current addon before installing the new one.
 
 Instructions for installing the Render Palette add-on can be found in the [Installation Guide](https://github.com/Jishnu-jithu/render-palette/wiki/Add%E2%80%90on-Installation).
 
+## Changelog
+
+Stay updated with the latest features and enhancements by checking out the [Render Palette Changelog](https://github.com/Jishnu-jithu/render-palette/wiki/Changelog).
+
 ## Documentation
 
 For detailed usage instructions and documentation, please refer to the [Render Palette Wiki](https://github.com/Jishnu-jithu/render-palette/wiki/Render-Palette-Documentation).
