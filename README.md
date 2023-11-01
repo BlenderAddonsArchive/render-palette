@@ -48,55 +48,6 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 <img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/0ecd6318-3bcd-4b2f-aec2-5f5cbe2a0928" width="900">
 
 Don't miss out on this game-changer. Get Render Palette now and unlock a new era of rendering possibilities in Blender.
-
-## Updates:
-Make sure to uninstall the current addon before installing the new one.
-
-### Version 1.5 Changelog:
-
-**Added Features**:
-- **More Render Setttings Options:** Added the ability to change the View Transformm, adjust the focus object and focus distance when Depth of Field is enabled in the Render settings panel.
-- **New Camera to View Button:** The camera dropdown menu in the Render Palette will now show a "New Camera to View" option when there is no camera in the scene, making it more user-friendly.
-- **Open Preset Folder:** Added a convenient option in the preset menu to navigate to the preset folder for quick access.
-- **Remove applied EXR:** Introduced an option to remove the applied EXR file directly from the Render Palette.
-
-**Enhancements**:
-- **Sample Preset:** The sample presets have been improved. Now, by default, the Render Palette will display the current sample count instead of "Low (64)" as it previously did.
-
-**User Interface Enhancement**:
-- **Render Palette Menu:** The option to enable or disable panels has been relocated from the addon preferences to the View menu in the 3D View.
-
-### Version 1.4 Changelog:
-- **More Preset Options:** You can create presets with Render Type Selection, Frame Range, Frame Rate (FPS)
-- **Batch Render:** Introducing the batch render feature, which enables you to render your scene with multiple cameras consecutively.
-- **Auto-save Rendered Images:** Added an option to automatically save rendered images upon completion.  
-- **Bug Fix:** Resolved a bug that was occasionally causing camera orientation settings not to function as expected. This fix ensures consistent and accurate camera orientation for your projects.
-
-### Version 1.3 Changelog:
-- **Expanded Resolution Presets:** Increased the variety of resolution presets for greater flexibility.
-- **Render Settings Revamp:** The render settings panel has been overhauled, offering a more streamlined and user-friendly experience.
-- **Camera Settings Panel:** Introduced a new panel dedicated to camera settings, including options to:
-  - Adjust camera orientation (square, portrait, landscape).
-  - Create a camera to view your scene.
-  - Align the selected camera to the current view.
-  - Customize various camera-related settings.
-- **Preset Management:** Added a preset option that enables you to:
-  - Create and manage presets for resolution, render engine, render device, samples, contrast, file format, and output location.
-- **Addon Preferences Update:** The addon preferences section has been updated to include:
-  - Access to updated documentation (now available on GitHub; previously located on Blender Market's documentation page).
-  - A "report bug" button for convenient user feedback submission.
-  - Additional options for fine-tuning the addon panel's user interface.
-
-### Version 1.2 Changelog:
-- **Render Device Selection for Cycles:** You now have the flexibility to choose your preferred render device when the render engine is set to Cycles.
-- **Updated Contrast Preset:** We have refined our contrast preset.
-- **Default Location for Environment Texture:** We have added an option to choose a default location for environment textures. Now, you can specify a folder, and Render Palette will automatically import all EXR files from that directory.
-- **World Strength Adjustment:** You can now change the world strength of your environment texture.
-- **Removed Default Output Location (Removed):** Please note that we have removed the default output location option due to inconsistent performance. We are actively working to improve this feature and will reintroduce it in a future update.
-
-### Version 1.1 Changelog:
-- **Improved Environment Settings:** We've enhanced the environment settings in this update.
-- **Added Texture Coordinates Option for Environment:** We've introduced texture coordinates options for environment settings, allowing you to adjust the location, rotation, and scale of textures.
   
 
 ## Installation
