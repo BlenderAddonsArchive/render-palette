@@ -5,6 +5,15 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 <p align="center">
   <img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/dcc2836e-67ff-4c6c-82c1-1343ac0c88cd">
 </p>
+<p align="center">
+  <a href="https://www.blendermarket.com/products/render-palette">
+    <span style="display:inline-block;"><strong><u>Purchase Pro version - Blender Market</u></strong></span>
+  </a>
+•  
+  <a href="https://github.com/Jishnu-jithu/render-palette/releases/tag/Addon">
+    <span style="display:inline-block;"><strong><u>Download Free Demo</u></strong></span>
+  </a>
+</p>
 
 ## Key Features:
 
