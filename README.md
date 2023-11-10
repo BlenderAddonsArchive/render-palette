@@ -11,6 +11,10 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
     <span style="display:inline-block;"><strong><u>Purchase Pro version - Blender Market</u></strong></span>
   </a>
 •  
+  <a href="https://jishnukv.gumroad.com/l/render-palette?layout=profile">
+    <span style="display:inline-block;"><strong><u>Gumroad</u></strong></span>
+  </a>
+•  
   <a href="https://github.com/Jishnu-jithu/render-palette/releases/tag/Addon">
     <span style="display:inline-block;"><strong><u>Download Free Demo</u></strong></span>
   </a>
