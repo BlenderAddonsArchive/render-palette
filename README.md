@@ -48,11 +48,6 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
 - Create, save, and manage render presets to reuse settings across different projects.
 - Import and export presets to share your preferred rendering configurations with others.
 
-### Additional Enhancements
-
-- Enable or disable custom panels for lens properties and tracking settings.
-- Add labels to buttons to make the interface more intuitive.
-
 ## Screenshots:
         
 <img src="https://github.com/Jishnu-jithu/render-palette/assets/145359279/b5d04bbf-ea64-49b2-a50f-7a97c50c79d0" width="900">
