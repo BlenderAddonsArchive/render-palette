@@ -56,7 +56,7 @@ Don't miss out on this game-changer. Get Render Palette now and unlock a new era
 
 ## Installation
 
-Instructions for installing the Render Palette add-on can be found in the [Installation Guide](https://github.com/Jishnu-jithu/render-palette/wiki/Add%E2%80%90on-Installation).
+Instructions for installing the Render Palette add-on can be found in the [Installation Guide](https://github.com/Jishnu-jithu/render-palette/wiki/Installation).
 
 ## Changelog
 
