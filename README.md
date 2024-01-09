@@ -1,5 +1,4 @@
-<h1 align="center">Render Palette - Elevate Your Rendering Workflow</h1>
-
+# Render Palette - Blender Add-On 
 Introducing Render Palette – *your gateway to a whole new level of Blender rendering. Crafted with precision and packed with features, this add-on reshapes the way you approach rendering. Whether you're a seasoned artist or just starting out, Render Palette brings you an intuitive rendering panel that takes the hassle out of the process.*
 
 <p align="center">
@@ -10,11 +9,7 @@ Introducing Render Palette – *your gateway to a whole new level of Blender ren
   <a href="https://www.blendermarket.com/products/render-palette">
     <span style="display:inline-block;"><strong><u>Purchase Pro version - Blender Market</u></strong></span>
   </a>
-•  
-  <a href="https://jishnukv.gumroad.com/l/render-palette?layout=profile">
-    <span style="display:inline-block;"><strong><u>Gumroad</u></strong></span>
-  </a>
-•  
+•   
   <a href="https://github.com/Jishnu-jithu/render-palette/releases/tag/Addon">
     <span style="display:inline-block;"><strong><u>Download Free Demo</u></strong></span>
   </a>
